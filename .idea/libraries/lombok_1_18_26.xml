@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lombok-1.18.26">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Library/lombok-1.18.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Library/slf4j-api-2.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
