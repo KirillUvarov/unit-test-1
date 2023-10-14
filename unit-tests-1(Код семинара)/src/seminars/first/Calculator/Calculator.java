@@ -48,7 +48,7 @@ public class Calculator {
             throw new ArithmeticException("Скидка и сумма покупки должны иметь положительное значение");
 //            assertThat(actual/фактическое).isEqualTo(expected/ожидаемое);
         } else return purchaseAmount - (purchaseAmount * ((double) discountAmount / 100));
-//        }else return purchaseAmount *  (1 - (discountAmount / 100));
+
     }
 
 
